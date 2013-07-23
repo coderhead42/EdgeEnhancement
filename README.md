@@ -16,5 +16,5 @@ This procedure although not perfect shows acceptable results.
 GUI
 ===============
 
-Gui for the above procedure is
+Gui for the above procedure is made in Matlab. It allows the user to adjust the amount of the filters applied in each step of the procedure.
 
